@@ -1,0 +1,53 @@
+h1{
+    font-family:Calibri;
+    color:white;
+    margin:auto 10%;
+    text-align:center;
+  }
+  
+  p{
+    padding:0 15%;
+  }
+  
+  body{
+  background-color: #111119;
+  color:white;
+  font-family:Calibri;
+  margin:auto;
+  font-size:1rem;
+  max-width:80%;
+  min-width:50px;
+  }
+  
+  .description{
+    text-align:center;
+    display:block;
+  
+  }
+  
+  .form-group{
+    margin:5%;
+  }
+  
+  .recommend{
+    display:block;
+  }
+  
+  .submit{
+    text-align:center;
+  }
+  
+  .smaller-text{
+    font-size:80%;
+  }
+  
+  form{
+    max-width:500px;
+    min-width:200px;
+    margin:0 auto;
+    text-align:center;
+  }
+  
+  .textbox{
+    margin-bottom:100px;
+  }
